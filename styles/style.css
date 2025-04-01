@@ -203,14 +203,14 @@ ol {
 }
 
 .button:hover,
-.content__video-card:hover {
+.content__card-link:hover {
   text-decoration: underline;
   text-decoration-skip-ink: none;
   text-underline-offset: 1px;
 }
 
 .button:active,
-.content__video-card:active {
+.content__card-link:active {
   background-color: #545050;
 }
 
@@ -297,6 +297,7 @@ ol {
   text-decoration: none;
   color: #fff;
 }
+
 .content__video-card-title {
   font-weight: 700;
   font-size: 30px;
